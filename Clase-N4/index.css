@@ -1,0 +1,66 @@
+/* Comentario  lllllll
+*/
+
+li{
+    color:#4448DF;
+    font-size: 30px;
+}
+
+*{
+    margin: 5px;
+    padding: 20px;
+
+}
+
+body{
+    background-color: rgb(213, 217, 203);
+    border: 3px solid white;
+}
+
+/* Class como identifico en css*/
+.parrafo__noticia{
+    color:azure;
+    background-color: #4448DF;
+    text-align: center;
+    font-size: 55px;
+
+}
+
+/* ID = Estilo unico para mis etiquetas*/
+#estilo__unico{
+    color:aqua;
+    font-size: 60px;
+    background-color: blueviolet;
+
+}
+
+
+ p article{
+
+}
+
+.parrafo__noticia p{
+
+}
+
+#unico .parrafo__noticia{
+
+}
+
+p{
+    color:aqua;
+}
+
+
+#parrafo{
+        color:#4448DF;
+}
+
+.elementos{
+    text-align: center;
+    font-size: 23px;
+}
+
+li{
+    font-size: 23px !important;
+}

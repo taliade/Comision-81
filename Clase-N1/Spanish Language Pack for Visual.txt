@@ -1,0 +1,15 @@
+Spanish Language Pack for Visual
+Live Server
+HTML Boilerplate
+HTML CSS Support
+Prettier - Code formatter
+vscode-icons
+Color Picker
+
+Git Cheatsheet
+Git Graph
+ 
+
+
+Preguntas genericas de Tutora: solana.cepurbeda@bue.edu.ar
+https://docs.google.com/forms/d/e/1FAIpQLSdlixB8y-ItB1H6UDUqmvSGn3e-TTugF5YwEtxXXzLPwoofCQ/viewform

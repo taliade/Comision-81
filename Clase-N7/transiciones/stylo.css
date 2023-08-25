@@ -1,0 +1,21 @@
+/* Estilos básicos para el botón */
+.boton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  /* Cambio de color de fondo al pasar el mouse */
+  .boton:hover {
+    background-color: #e74c3c;
+  }
+  
+  /* Cambio de tamaño al hacer clic */
+  .boton:active {
+    transform: scale(0.95);
+  }
+  

@@ -1,0 +1,37 @@
+/* Tipografia Tilt Prism */
+  @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+/* font-family: 'Tilt Prism', cursive; */
+
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color:blue;
+
+}
+
+h2{
+    font-family: 'Tilt Prism', cursive;
+    font-size: 40px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Traer un fuente externa*/
+
+@font-face {
+    font-family: 'Barriecito-Regular';
+    src: url(./fuentes/Barriecito/Barriecito-Regular.ttf);
+
+}
+
+.parrafo {
+    font-family: 'Barriecito-Regular';
+    font-weight: 600;
+    font-style:italic;
+    font-size: 20px;
+
+}
+
