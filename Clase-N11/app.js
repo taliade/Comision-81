@@ -19,10 +19,11 @@ async function getCharacters() {
                 <p class="data"><span>Gender:</span> ${character.gender}</p>
             `;
             container.appendChild(article);
+            
         });
     } catch (error) {
         console.log(error);
     }
 }
-
+console.log(getCharacters())
 getCharacters();
